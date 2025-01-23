@@ -1,0 +1,3 @@
+### notes/lib
+
+Containment of all code during college hours. Web dev, game dev, simple scripts for bordem etc...
